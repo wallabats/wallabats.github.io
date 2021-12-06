@@ -1,3 +1,5 @@
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+title: "WALLABATS"
+name: "구구"
+description: "테스트"
+url: "https://wallabats.github.io"
 baseurl: "" # the subpath of your site, e.g. /blog
-title: "" # the name of your site, e.g. ACME Corp.
